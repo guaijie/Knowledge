@@ -6,3 +6,5 @@
 
 ## Nodejs进阶：crypto模块中你需要掌握的安全基础知识
 [crypto讲解](http://www.cnblogs.com/chyingp/p/nodejs-learning-crypto-theory.html)
+
+<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
