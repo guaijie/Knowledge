@@ -7,5 +7,8 @@
 ## Nodejs进阶：crypto模块中你需要掌握的安全基础知识
 [crypto讲解](http://www.cnblogs.com/chyingp/p/nodejs-learning-crypto-theory.html)
 
+## RxJS-github
+[RxJS-github](https://github.com/ReactiveX/rxjs)
+
 ## RxJS
-![Rxjs](https://github.com/guaijie/knowledge/blob/master/rxjs.png)
+![RxJS](https://github.com/guaijie/knowledge/blob/master/rxjs.png)
