@@ -10,5 +10,5 @@
 ## RxJS-github
 [RxJS-github](https://github.com/ReactiveX/rxjs)
 
-## RxJS
-![RxJS](https://github.com/guaijie/knowledge/blob/master/rxjs.png)
+## Web开发技术指南和趋势
+[Web开发技术指南和趋势](https://zhuanlan.zhihu.com/p/53043557)
