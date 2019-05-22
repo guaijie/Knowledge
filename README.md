@@ -1,6 +1,6 @@
-## fe-material
+## material
 
-整理最有趣的前端技术教程及文档，欢迎大家都来补充让更多的多学找到学习一手好资料
+整理有趣的、新颖的技术教程及文档
 
 ### 前端工具
 
@@ -52,6 +52,10 @@
   4. [SSR](https://ssr.vuejs.org/)
   5. [Nuxt.js](https://zh.nuxtjs.org/)
   6. [Vue 源码分析·免费](http://hcysun.me/vue-design/)
+  7. [源码入门版](https://github.com/answershuto/learnVue)
+  8. [源码完整版 v2.2.6](https://github.com/liutao/vue2.0-source)
+  9. [源码注释版](https://github.com/Ma63d/vue-analysis)
+  10. [源码图文版](http://jiongks.name/blog/vue-code-review/)
 - React
   1. [文档](https://doc.react-china.org/)
   2. [Redux 官方文档](http://cn.redux.js.org/)
@@ -59,6 +63,8 @@
   4. [Next.js](https://zeit.co/blog/next4)
   5. [Next.js 中文文档](http://nextjs.frontendx.cn/docs)
   6. [Next.js 掘金博客](https://juejin.im/entry/59791d8f6fb9a03c391b557e)
+  7. [源码精简版](https://github.com/lanjingling0510/blog/issues/1)
+  8. [源码完整版](https://icepy.gitbooks.io/react/content/di_yi_zhang_ff1a_mu_lu_yi_ji_wen_jian_fen_xi.html)
 - Angular
   1. [官方文档](https://angular.cn/)
 - Riot
@@ -101,6 +107,9 @@
   1. [xgplayer](https://github.com/bytedance/xgplayer)
   2. [video.js](https://github.com/videojs/video.js)
   3. [mediaelement](https://github.com/mediaelement/mediaelement)
+- [RxJS-github](https://github.com/ReactiveX/rxjs)
+  1. [rxjs doc](https://rxjs.dev/)
+
 
 ### 前端技术
 
@@ -131,6 +140,10 @@
   1. [ES5 新特性与 ES3 的对比](http://www.hahack.com/wiki/javascript-es5.html#es5-%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7)
   2. [ES5 新特性博客](http://pij.robinqu.me/JavaScript_Core/ECMAScript/es5.html)
 
+### node进阶
+
+- [crypto讲解](http://www.cnblogs.com/chyingp/p/nodejs-learning-crypto-theory.html)
+
 ### 服务端教程
 
 - [Nginx 入门](http://cnt1992.xyz/2016/03/18/simple-intro-to-nginx/)
@@ -138,6 +151,7 @@
 - [Nginx 配置大全](https://nginxconfig.io/)
 - [Dgraph](https://dgraph.io/)
 - [GraphQL](https://graphql.cn/)
+- [详解Tomcat 配置文件server.xml](https://juejin.im/entry/598ac5745188254892412d66)
 
 ### 好玩的网站
 
@@ -201,3 +215,7 @@
 ### 数据
 
 - [全国 POI 信息数据库](http://www.poilist.cn/)
+
+### 最新技术
+
+- [区块链入门](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
